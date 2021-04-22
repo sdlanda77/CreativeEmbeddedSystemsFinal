@@ -1,6 +1,7 @@
 # Perfectly Crisped French Fries
 
-[Blog post](https://edblogs.columbia.edu/comsx3930-001-2021-1/?p=978&preview=true)
+[Blog post](https://edblogs.columbia.edu/comsx3930-001-2021-1/2021/04/22/perfectly-crisped-french-fries-%f0%9f%8d%9f/e)
+
 [Video demo](https://youtu.be/9up8smvd3tY)
 
 ## Materials
