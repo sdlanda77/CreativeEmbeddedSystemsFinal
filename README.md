@@ -1,7 +1,7 @@
 # Perfectly Crisped French Fries
 
-(Blog post)[https://edblogs.columbia.edu/comsx3930-001-2021-1/?p=978&preview=true]
-(Video demo)[https://youtu.be/9up8smvd3tY]
+[Blog post](https://edblogs.columbia.edu/comsx3930-001-2021-1/?p=978&preview=true)
+[Video demo](https://youtu.be/9up8smvd3tY)
 
 ## Materials
 - ESP32
